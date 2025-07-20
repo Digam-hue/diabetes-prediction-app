@@ -1,4 +1,3 @@
-
 🩺 Ultimate Diabetes Prediction: From Data to Deployment
 ![Alt text](/images/app_pic.png)
 
@@ -72,21 +71,24 @@ Git
 
 Setup Steps:
 
-1. Clone the repository:
-git clone https://github.com/your-username/diabetes-prediction-app.git
+# 1. Clone the repository
+git clone https://github.com/Digam-hue/diabetes-prediction-app.git
 cd diabetes-prediction-app
 
-
-2. Create a virtual environment (recommended):
+# 2. Create and activate virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # Windows: venv\Scripts\activate
 
-3. Install the required libraries:
+# 3. Install dependencies
+pip install -r requirements.txt
 
-
-4. Run the Streamlit app:
+# 4. Run the app
 streamlit run app.py
 
 
+
 Thank you for checking out my project. Feel free to connect with me on LinkedIn
-link: 
+link: https://www.linkedin.com/in/digambar-baditya-b522b12a5/
+
+# diabetes-prediction-app
+A Machine Learning web app to predict diabetes using logistic regression and other models
