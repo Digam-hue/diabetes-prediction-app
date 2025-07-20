@@ -3,7 +3,8 @@
 
 Welcome to the Ultimate Diabetes Prediction project! This repository documents the end-to-end journey of building a machine learning model to predict diabetes risk, culminating in a live, interactive web application.
 
-**Live Demo:** [**Try the app here!**]([LINK_WILL_BE_ADDED_AFTER_DEPLOYMENT])
+**Live Demo:** [**Try the app here!**]([https://smart-diabetes-check.streamlit.app/])
+
 git clone https://github.com/Digam-hue/diabetes-prediction-app.git
 The Story: Why This Project?
 
